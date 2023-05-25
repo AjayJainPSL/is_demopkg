@@ -1,2 +1,2 @@
 test.id,test.description,http.path,http.method,input.json,output.json,data.type,requests.count
-1,Add Ints,/invoke/SG022_GLAM_ZDEMO_v1/addInts,invoke,../data/addints/SG022_GLAM_ZDEMO_v1.addInts_Input.xml,../data/addints/SG022_GLAM_ZDEMO_v1.addInts_Output.xml,pipeline,3
+1,Add Ints,/invoke/SG022_GLAM_ZDEMO_v1/addInts,POST,../data/addints/SG022_GLAM_ZDEMO_v1.addInts_Input.xml,../data/addints/SG022_GLAM_ZDEMO_v1.addInts_Output.xml,pipeline,3
